@@ -1,0 +1,2 @@
+# plugin
+Aurelia KendoUI plugin
