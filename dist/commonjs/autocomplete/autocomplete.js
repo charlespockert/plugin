@@ -22,7 +22,7 @@ var _jquery = require('jquery');
 
 var _jquery2 = _interopRequireDefault(_jquery);
 
-require('kendo-ui/src/js/kendo.autocomplete');
+require('kendo-ui/src/kendo.autocomplete');
 
 var AuKendoAutoComplete = (function () {
     var _instanceInitializers = {};
