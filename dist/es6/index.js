@@ -1,5 +1,5 @@
 // TODO: Do we import the common styles here or let the user do it in their app?
-import 'kendo-ui/styles/web/kendo.common.min.css';
+//import 'kendo-ui/styles/web/kendo.common.min.css';
 
 export function configure(aurelia, configCallback) {
 
